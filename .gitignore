@@ -1,0 +1,6 @@
+/dist
+/ProFlash.egg-info
+/ProFlash/__pycache__
+/.vscode
+.idea
+*.iml
