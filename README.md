@@ -3,9 +3,9 @@
 ### Install 
 As a prerequisite, you must have PyTorch installed to use this repository.
 
-You can use this one-liner for installation, using the latest release of esm:
+You can use this one-liner for installation, using the latest release version
 ```
-pip install git+https://github.com/isyslab-hust/ProtFlash  # bleeding edge, current repo main branch
+pip install git+https://github.com/isyslab-hust/ProtFlash
 ```
 ### Usage
 ```
