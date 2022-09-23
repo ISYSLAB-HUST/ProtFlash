@@ -17,7 +17,12 @@ data = [
 ]
 ids, batch_token, lengths = batchConverter(data)
 model = load_prot_flash_base()
-model(batch_token, lengths).shape
+with torch.no_grad():
+    token_embedding = model(batch_token, lengths)
+# Generate per-sequence representations via averaging
+sequence_representations = []
+for i, (_, seq) in enumerate(data):
+    sequence_representations.append(token_embedding[i, 0: len(seq) + 1].mean(0))
 ```
 
 ### License
