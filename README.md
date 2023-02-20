@@ -5,7 +5,11 @@ As a prerequisite, you must have PyTorch installed to use this repository.
 
 You can use this one-liner for installation, using the latest release version
 ```
+# latest version
 pip install git+https://github.com/isyslab-hust/ProtFlash
+
+# stable version
+pip install ProtFlash
 ```
 ### Usage
 ```
