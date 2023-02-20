@@ -1,4 +1,5 @@
 ## ProtFlash: A lightweight protein language model
+[![PyPI - Version](https://img.shields.io/pypi/v/ProtFlash.svg?style=flat)](https://pypi.org/project/ProtFlash/) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ProtFlash.svg)](https://pypi.org/project/ProtFlash/) [![GitHub - LICENSE](https://img.shields.io/github/license/isyslab-hust/ProtFlash.svg?style=flat)](./LICENSE) ![PyPI - Downloads](https://img.shields.io/pypi/dm/ProtFlash) [![Wheel](https://img.shields.io/pypi/wheel/ProtFlash)](https://pypi.org/project/ProtFlash/) ![build](https://img.shields.io/github/actions/workflow/status/isyslab-hust/ProtFlash/publish_to_pypi.yml)
 
 ### Install 
 As a prerequisite, you must have PyTorch installed to use this repository.
