@@ -16,7 +16,7 @@ pip install ProtFlash
 ## **Model details**
 |   **Model**    | **# of parameters** | **# of hidden size** |            **Pretraining dataset**             | **# of proteins** | **Model download** |
 |:--------------:|:-------------------:|:----------------------:|:----------------------------------------------:|:-----------------:|:------------------------:|
-|    ProtFlash-base    |        174M         |           768           | [UniRef100](https://www.uniprot.org/downloads) |       51M        |      [ProtFlash-base](https://zenodo.org/record/7655858/files/protflash_large.pt)       |
+|    ProtFlash-base    |        174M         |           768           | [UniRef50](https://www.uniprot.org/downloads) |       51M        |      [ProtFlash-base](https://zenodo.org/record/7655858/files/protflash_large.pt)       |
 | ProtFlash-small |        79M         |           512           | [UniRef50](https://www.uniprot.org/downloads)  |        51M        |     [ProtFlash-small](https://zenodo.org/record/7655858/files/flash_protein.pt)     |
 
 ### Usage
