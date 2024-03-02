@@ -58,5 +58,13 @@ This source code is licensed under the MIT license found in the LICENSE file in 
 ### Citation
 If you use this code or one of our pretrained models for your publication, please cite our paper:
 ```
-Lei Wang, Hui Zhang, Wei Xu, Zhidong Xue, and Yan Wang. ProtFlash: Deciphering the protein landscape with a novel and lightweight language model, Under revision (2023)
+@article{wang2023deciphering,
+  title={Deciphering the protein landscape with ProtFlash, a lightweight language model},
+  author={Wang, Lei and Zhang, Hui and Xu, Wei and Xue, Zhidong and Wang, Yan},
+  journal={Cell Reports Physical Science},
+  volume={4},
+  number={10},
+  year={2023},
+  publisher={Elsevier}
+}
 ```
